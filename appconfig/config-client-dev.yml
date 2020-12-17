@@ -4,4 +4,4 @@ hx:
 runman:
   app:
     id: 1234
-    name: test
+    name: wucrApp
