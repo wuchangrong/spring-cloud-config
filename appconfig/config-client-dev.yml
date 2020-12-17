@@ -2,6 +2,6 @@ hx:
  name: hx_test1
  id: hx_id
 runman:
-  app
+  app:
     id: 1234
     name: test
